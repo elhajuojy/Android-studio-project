@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">CheckBox</string>
+    <string name="php">php</string>
+    <string name="pyton">python</string>
+    <string name="java">java</string>
 </resources>
